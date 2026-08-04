@@ -1,0 +1,22 @@
+=== FEMU FTL Unit Tests ===
+
+=== 1. Basic I/O Integrity ===
+
+=== 2. Timing Model ===
+
+=== 3. Mapping Table ===
+
+=== 4. Garbage Collection ===
+  lines=8 gc_thres=3 pages_per_blk=16 pages_before_gc=80
+  GC state before: free=8  victim=0  full=0
+  GC state after:  free=2  victim=0  full=6
+  Filling 64 pages (4 lines), then overwriting 32 pages
+
+=== 5. Write Pointer ===
+
+=== 6. Trim ===
+
+========================================
+  Tests:  794663 passed, 0 failed, 794663 assertions
+  Total:  794663 checks
+========================================

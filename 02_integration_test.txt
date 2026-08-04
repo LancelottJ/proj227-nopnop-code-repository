@@ -1,0 +1,7 @@
+=== Integration Test ===
+=== Starting femu_direct_adapter ===
+=== Starting memstim ===
+2026-08-04 17:53:17.763 [I] memstim: [time=156100000ps] all operations completed
+=== memstim exit code: 0 ===
+=== INTEGRATION TEST PASSED ===
+=== Cleaning up ===
